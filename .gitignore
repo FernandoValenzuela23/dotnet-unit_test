@@ -1,0 +1,13 @@
+.vs/
+BusinessLogic/bin/
+BusinessLogic/obj/
+PruebasUnitarias/bin/
+PruebasUnitarias/obj/
+UnitTests/bin/
+UnitTests/obj/
+*.user
+artifacts/
+.vscode/
+.dotnet/
+*.binlog
+.TestResults/
